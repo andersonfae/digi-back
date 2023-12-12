@@ -47,4 +47,6 @@ Este script popula o banco de dados com dados iniciais. Certifique-se de que o M
 
 ## Como iniciar a aplicação
 
+```bash
 npm start
+```
