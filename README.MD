@@ -2,6 +2,9 @@
 
 Aplicação feita por https://github.com/andersonfae
 
+Site deployado !
+https://digi-front.vercel.app/
+
 ## Pré-requisitos
 
 Certifique-se de ter o Node.js e o MongoDB instalados em sua máquina antes de seguir os passos abaixo.
